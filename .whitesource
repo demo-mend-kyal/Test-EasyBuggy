@@ -1,3 +1,6 @@
 {
-  "settingsInheritedFrom": "demo-mend-kyal/whitesource-config@main"
+  "settingsInheritedFrom": "demo-mend-kyal/whitesource-config@main",
+  "remediateSettings": {
+    "enableRenovate": "true"
+  }
 }
