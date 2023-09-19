@@ -1,6 +1,7 @@
 {
   "settingsInheritedFrom": "demo-mend-kyal/whitesource-config@main",
   "remediateSettings": {
-    "enableRenovate": "true"
+    "enableRenovate": "true",
+    "extends": ["github>whitesource/merge-confidence:beta"]
   }
 }
